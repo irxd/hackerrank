@@ -1,4 +1,4 @@
-# https://www.hackerrank.com/challenges/counting-valleys/problem
+// https://www.hackerrank.com/challenges/counting-valleys/problem
 
 function countingValleys(n, s) {
     let altitude = 0;
